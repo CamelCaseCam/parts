@@ -1,0 +1,5 @@
+"Yeast toolkit":
+  file: collections/yeast_toolkit.yaml
+  description: Something here
+  references: ["https://doi.org/10.1021/sb500366v"]
+  tags: [yeast]
