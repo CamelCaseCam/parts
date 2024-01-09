@@ -8,3 +8,9 @@
   description: Something here
   references: ["https://doi.org/10.1038/s41598-017-15107-z", "https://doi.org/10.1021/acssynbio.1c00130"]
   tags: [bacillus_subtilis]
+
+"Pichia_pastoris_toolkit":
+  file: collections/pichia.yaml
+  description: Toolkit for engineering Pichia Pastoris, assembled from multiple sources
+  references: ["https://doi.org/10.1021/acssynbio.6b00337", "https://doi.org/10.1021/acssynbio.1c00130"]
+  tags: [pichia_pastoris]
